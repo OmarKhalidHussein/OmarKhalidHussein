@@ -3,10 +3,12 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <h2>Hi, I'm Omar Khalid 👋</h2>
+  <img height="50" alt="My Name is Omar Khalid" src="images/personal_note.svg" />
   <p><strong>Software Engineering Student | Aspiring Software & Machine Learning Engineer</strong></p>
   <br />
 </div>
+
+
 <!-- Social + About -->
 <table width="100%" align="center">
 <tr>
