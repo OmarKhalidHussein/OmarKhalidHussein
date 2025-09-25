@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Omar Khalid" src="images/personal_note.svg" />
+<img height="50" alt="Omar Khalid Animated" src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Loading_2.gif" />
   <p><strong>Software Engineering Student | Aspiring Software & Machine Learning Engineer</strong></p>
   <br />
 </div>
