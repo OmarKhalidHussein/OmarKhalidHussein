@@ -1,78 +1,61 @@
-<!-- "Hero" Header -->
-<div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
-  <br />
-  <br />
+<!-- Omar Khalid | GitHub Profile README -->
+<h1 align="center">Hi there 👋, I'm Omar Khalid</h1>
+<h3 align="center">Software Engineering Student | Aspiring Software & Machine Learning Engineer</h3>
 
-</div>
+---
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
+<p align="center">
+  🎓 Currently pursuing a degree in <strong>Software Engineering</strong><br>
+  🧠 Focused on building strong foundations in software design and machine learning<br>
+  🎯 Goal: <strong>Build a strong portfolio by 2026</strong><br>
+  🔗 <a href="https://www.linkedin.com/in/omar-khalid-54300b29a/" target="_blank">Connect with me on LinkedIn</a>
 </p>
 
-</td>
+---
 
-
-<td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
-<br />
-<br />
-
+<h2>🛠️ Languages & Tools</h2>
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-</td>
-</tr>
-</table>
+<h3>📚 Libraries & Tools</h3>
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/foxfrostbyte"><img width="24" src="https://avatars.githubusercontent.com/u/98986354?s=24&u=a241b6bbbef628d37a0c44b0981141204ff130b9&v=4" alt="foxfrostbyte" /> foxfrostbyte</a> |9/22/2025, 10:00:33 PM|Heya!!|
-| <a href="https://github.com/anshumanjadiya1102"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24&u=5282c59b24c18e0e2672c2ff79bcf67b6dc3c5c1&v=4" alt="anshumanjadiya1102" /> anshumanjadiya1102</a> |9/21/2025, 7:04:40 AM|Hello Everyone, I am Anshuman Jadiya|
-| <a href="https://github.com/AnshumanJadiya1102-2"><img width="24" src="https://avatars.githubusercontent.com/u/229737245?s=24&u=42acef0930af7a6f6ca8ef9d98f07c878573373a&v=4" alt="AnshumanJadiya1102-2" /> AnshumanJadiya1102-2</a> |9/9/2025, 1:33:50 AM|Hello there, Nice README|
-| <a href="https://github.com/OrbiterToad"><img width="24" src="https://avatars.githubusercontent.com/u/25004579?s=24&u=c0f6a8e7a467ac4631b284c8b60504ec8298e84b&v=4" alt="OrbiterToad" /> OrbiterToad</a> |9/8/2025, 8:48:15 AM||
-| <a href="https://github.com/RixInGithub"><img width="24" src="https://avatars.githubusercontent.com/u/87478581?s=24&u=8c3395853dbe6352ce04bc223a26f94576fe8a0e&v=4" alt="RixInGithub" /> RixInGithub</a> |9/5/2025, 5:15:00 PM|wsg chat|
-<!-- /Guestbook -->
+---
 
-<!-- Footer -->
+<h2>📌 Current Focus</h2>
+<ul>
+  <li>Studying software engineering fundamentals</li>
+  <li>Practicing problem solving and building projects</li>
+  <li>Learning the foundations of machine learning</li>
+</ul>
 
-<div align="center">
+---
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
+<h2>📈 GitHub Stats</h2>
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarKhalid&show_icons=true&theme=default" alt="Omar's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarKhalid&theme=default" alt="GitHub Streak"/>
+</p>
 
+---
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+<p align="center">
+  Thank you for visiting my profile 🤝 <br>
+  Let’s build something great together!
+</p>
 
-</div>
