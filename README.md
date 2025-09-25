@@ -7,7 +7,7 @@
   <img src="https://raw.githubusercontent.com/OmarKhalidHussein/OmarKhalidHussein/main/images/omar_marquee.gif" alt="My name's Omar Khalid" />
 
   <br /><br />
-  <h2>Hi, I'm Omar Khalid 👋</h2>
+  <img height="50" alt="My name’s Omar Khalid" src="personal_note.svg" />
   <p><strong>Software Engineering Student | Aspiring Software & Machine Learning Engineer</strong></p>
   <br />
 </div>
