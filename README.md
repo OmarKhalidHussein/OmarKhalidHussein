@@ -1,12 +1,17 @@
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-  <br />
-  <br />
+  <br /><br />
+
+  <!-- Animated Name -->
+  <img src="https://raw.githubusercontent.com/OmarKhalidHussein/OmarKhalidHussein/main/images/omar_marquee.gif" alt="My name's Omar Khalid" />
+
+  <br /><br />
   <h2>Hi, I'm Omar Khalid 👋</h2>
   <p><strong>Software Engineering Student | Aspiring Software & Machine Learning Engineer</strong></p>
   <br />
 </div>
+
 
 <!-- Social + About -->
 <table width="100%" align="center">
