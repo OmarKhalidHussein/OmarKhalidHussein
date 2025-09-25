@@ -65,23 +65,20 @@
 </ul>
 
 ---
+<!-- GitHub Stats -->
+<h2 style="color:#007acc;" align="center">📈 GitHub Stats</h2>
 
-<!-- Guestbook -->
-<h2>📖 Guestbook</h2>
-
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/foxfrostbyte"><img width="24" src="https://avatars.githubusercontent.com/u/98986354?s=24" /> foxfrostbyte</a> |9/22/2025|Heya!!|
-| <a href="https://github.com/anshumanjadiya1102"><img width="24" src="https://avatars.githubusercontent.com/u/225169841?s=24" /> anshumanjadiya1102</a> |9/21/2025|Nice profile Omar!|
-| <a href="https://github.com/OrbiterToad"><img width="24" src="https://avatars.githubusercontent.com/u/25004579?s=24" /> OrbiterToad</a> |9/8/2025|Keep going!|
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarKhalidHussein&show_icons=true&theme=default" alt="Omar's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmarKhalidHussein&theme=default" alt="GitHub Streak"/>
+</p>
 
 <!-- Footer -->
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
-<img src="https://profile-counter.glitch.me/OmarKhalid/count.svg" />
+<img src="https://profile-counter.glitch.me/OmarKhalidHussein/count.svg" />
 <br />
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
